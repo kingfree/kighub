@@ -1,0 +1,9 @@
+{
+  "name": "kighub",
+  "installCommand": "pnpm install",
+  "buildCommand": "pnpm run build",
+  "assets": {
+    "directory": "./doc_build",
+    "notFoundStrategy": "404Page"
+  }
+}
