@@ -1,0 +1,20 @@
+[
+  {
+    "text": "指南",
+    "link": "/guide/start/introduction/",
+    "activeMatch": "/guide/"
+  },
+  {
+    "text": "你好，世界！",
+    "link": "/hello/",
+    "activeMatch": "/hello/"
+  },
+  {
+    "text": "KigerMap",
+    "link": "https://cydlcs.com/"
+  },
+  {
+    "text": "娃图",
+    "link": "https://kigmap.cn/"
+  }
+]
