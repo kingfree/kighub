@@ -1,12 +1,12 @@
 [
   {
     "text": "指南",
-    "link": "/guide/start/introduction/",
+    "link": "/guide/start/introduction",
     "activeMatch": "/guide/"
   },
   {
     "text": "参与贡献",
-    "link": "/contributing/",
+    "link": "/contributing",
     "activeMatch": "/contributing/"
   },
   {
