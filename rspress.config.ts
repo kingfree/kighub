@@ -8,8 +8,8 @@ export default defineConfig({
   icon: '/rspress-icon.png',
   lang: 'zh',
   logo: {
-    light: '/rspress-light-logo.png',
-    dark: '/rspress-dark-logo.png',
+    light: '/kighub-light-logo.png',
+    dark: '/kighub-dark-logo.png',
   },
   route: {
     cleanUrls: true,

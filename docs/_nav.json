@@ -1,13 +1,13 @@
 [
   {
     "text": "指南",
-    "link": "/guide/start/introduction/",
+    "link": "/guide/start/introduction",
     "activeMatch": "/guide/"
   },
   {
-    "text": "你好，世界！",
-    "link": "/hello/",
-    "activeMatch": "/hello/"
+    "text": "参与贡献",
+    "link": "/contributing",
+    "activeMatch": "/contributing/"
   },
   {
     "text": "KigerMap",
